@@ -1,0 +1,33 @@
+/* src/styles/auth.scss */
+.auth {
+  .card {
+    padding: 26px;
+  }
+
+  h2 {
+    margin: 0 0 18px;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .field {
+    margin-bottom: 14px;
+  }
+
+  .actions {
+    margin-top: 18px;
+  }
+
+  .hint {
+    margin-top: 14px;
+    text-align: center;
+    font-size: 14px;
+    color: #6b7280;
+
+    a {
+      color: #2563eb;
+      font-weight: 600;
+    }
+  }
+}
