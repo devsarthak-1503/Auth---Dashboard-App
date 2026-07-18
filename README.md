@@ -6,7 +6,7 @@ This project demonstrates a complete frontend authentication flow using modern R
 ---
 Live - https://agent-69c4d76a0ecb8f--auth-dashboard-application.netlify.app/login
 
-## ✨ Features
+## Features
 
 - User **Signup & Login**
 - Form validation using **React Hook Form**
@@ -19,7 +19,7 @@ Live - https://agent-69c4d76a0ecb8f--auth-dashboard-application.netlify.app/logi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React**
 - **React Router DOM**
@@ -58,7 +58,7 @@ src/
 
 ---
 
-## 🔄 Authentication Flow
+## Authentication Flow
 
 1. User signs up with email & password  
 2. User data is saved in **localStorage**
@@ -69,14 +69,14 @@ src/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone <your-repo-url>
 
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 npm install
 
-3️⃣ Start the development server
+### 3️⃣ Start the development server
 npm run dev
